@@ -53,13 +53,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "Test",
-        "pages": [
-          "api-reference/endpoint/create",
-          "untitled-page"
-        ]
       }
     ],
     "global": {
