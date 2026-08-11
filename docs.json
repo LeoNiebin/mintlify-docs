@@ -40,16 +40,16 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction"
+              "petsotre/introduction"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "petsotre/endpoint/get",
+              "petsotre/endpoint/create",
+              "petsotre/endpoint/delete",
+              "petsotre/endpoint/webhook"
             ]
           }
         ]
