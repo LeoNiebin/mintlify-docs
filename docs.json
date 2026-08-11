@@ -25,7 +25,6 @@
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
-              "essentials/code",
               "essentials/images",
               "essentials/settings",
               "essentials/navigation",
@@ -52,6 +51,12 @@
               "api-reference/endpoint/webhook"
             ]
           }
+        ]
+      },
+      {
+        "tab": "Test",
+        "pages": [
+          "untitled-page-2"
         ]
       }
     ],
