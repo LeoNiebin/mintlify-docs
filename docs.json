@@ -56,7 +56,9 @@
       {
         "tab": "Test",
         "pages": [
-          "untitled-page-2"
+          "api-reference/endpoint/create",
+          "untitled-page",
+          "api-reference/endpoint/untitled-page"
         ]
       }
     ],
