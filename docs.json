@@ -15,22 +15,11 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
+            "pages": []
           },
           {
             "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
+            "pages": []
           }
         ]
       },
@@ -39,18 +28,11 @@
         "groups": [
           {
             "group": "API Documentation",
-            "pages": [
-              "petsotre/introduction"
-            ]
+            "pages": []
           },
           {
             "group": "Endpoint Examples",
-            "pages": [
-              "petsotre/endpoint/get",
-              "petsotre/endpoint/create",
-              "petsotre/endpoint/delete",
-              "petsotre/endpoint/webhook"
-            ]
+            "pages": []
           }
         ]
       }
